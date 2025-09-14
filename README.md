@@ -1,6 +1,5 @@
 # Hi, I'm Likhita 👩‍💻
 Backend Developer | Java | Node.js | Microservices | Redis | WebSockets
-Here are some ideas to get you started:
 
 🚀 Passionate about building scalable backend systems  
 🌱 Currently learning: **GoLang**, **WebRTC**, and distributed systems  
